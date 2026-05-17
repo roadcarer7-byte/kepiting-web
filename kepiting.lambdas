@@ -1,0 +1,9 @@
+(ampah_now_sampah_merged=171.17133), 0.0, 0.0, 1.0
+(ampah_now_sampah_merged=136895.1), 6.355879072840091, 0.0, 1.0
+(ampah_now_sampah_merged=137352.06), 6.360747651921309, 0.0, 1.0
+dist_tanah, -13.050108392980611, 533.1830444335938, 2776463.5
+mangrove_now_tanah, -1.67296802694182, 533.1830444335938, 2776463.5
+linearPredictorNormalizer, 4.9001462254973465
+densityNormalizer, 3.561292905015251
+numBackgroundPoints, 10002
+entropy, 4.072370756392659
